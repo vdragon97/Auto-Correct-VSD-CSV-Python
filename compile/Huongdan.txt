@@ -1,0 +1,5 @@
+cmd pip install Cython
+Run file compile.bat to compile autoCorrectCSV.py to .pyd file
+Rename .pyd file to autoCorrectCSV.pyd
+Copy main.py and autoCorrectCSV.pyd to Gateway
+cmd python main.py
